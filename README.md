@@ -1,16 +1,43 @@
-# uas
+# Aplikasi Mobile Pemesanan Makanan
 
-A new Flutter project.
+Aplikasi mobile pemesanan makanan yang dikembangkan menggunakan Flutter dan Firebase. Aplikasi ini memungkinkan pengguna untuk melihat daftar menu, melihat detail produk, melakukan pemesanan, serta mengelola akun pengguna secara mudah dan responsif.
 
-## Getting Started
+## Fitur Utama
 
-This project is a starting point for a Flutter application.
+* Login dan Registrasi Pengguna
+* Katalog Menu Makanan dan Minuman
+* Detail Produk
+* Keranjang Belanja
+* Checkout Pesanan
+* Riwayat Pesanan
+* Profil Pengguna
+* Integrasi Firebase Authentication
+* Integrasi Cloud Firestore
 
-A few resources to get you started if this is your first Flutter project:
+## Teknologi yang Digunakan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter
+* Dart
+* Firebase Authentication
+* Cloud Firestore
+* Firebase Storage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cara Menjalankan Proyek
+
+1. Clone repository ini.
+2. Jalankan perintah:
+
+```bash
+flutter pub get
+flutter run
+```
+
+3. Pastikan konfigurasi Firebase telah ditambahkan ke project.
+
+## Tujuan Proyek
+
+Proyek ini dikembangkan sebagai bagian dari tugas pengembangan aplikasi mobile untuk mengimplementasikan konsep UI/UX, autentikasi pengguna, manajemen data, dan integrasi layanan cloud menggunakan Flutter dan Firebase.
+
+## Pengembang
+
+Rifa Mardhatillah
